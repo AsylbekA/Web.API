@@ -9,7 +9,7 @@ namespace Product.Infrastructure;
 public static class  DependencyInjection
 {
   
-    public static IServiceCollection AddPersistence(this IServiceCollection services,
+    public static IServiceCollection AddProductPersistence(this IServiceCollection services,
         IConfiguration configuration)
     {
         services.AddDbContext<ProductContextImp>(option => option.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
