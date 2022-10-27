@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
-    <DocumentationFile>G:\Work\Web.API\Auth.API\bin\Auth.API.xml</DocumentationFile>
+    <DocumentationFile>F:\Asulbek\SelfProjects\Web.API\Auth.API\bin\Auth.API.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
